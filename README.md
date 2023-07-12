@@ -1,6 +1,7 @@
 # 점심메뉴+시간
 
-![image](https://github.com/Poki742/LunchClock/assets/126844692/fcc091b8-175f-4612-8b25-7889a67c2bc8)<br>
+![image](https://github.com/Poki742/LunchClock/assets/126844692/35189ef2-baa8-4f87-97e5-f0c391a0742d)
+<br>
 
 ## 설명
 
